@@ -4,7 +4,7 @@ Mi nombre es Angye
 
 Actualmente soy estudiante de la Universidad El Bosque y pertenezco a la carrera de creación digital.
 
-Manejo el lenguaje de diseño HTML y de estructura CCS y estoy aprendiendo JavaScript, ademas de estar formandome como progrmadora tambien soy una persona creativa que tiene conocimientos de diseño, publicidad, marcketing y animación. 
+Manejo el lenguaje de diseño HTML y de estructura CCS y estoy aprendiendo JavaScript, ademas de estar formandome como programadora tambien soy una persona creativa que tiene conocimientos de diseño, publicidad, marcketing y animación. 
 
 Estoy enfocada en el desarrollo web interactivo, práctico, eficiente y sobre todo innovador. Mi trabajo no solo aspira a ser útil o bueno si no que ademas es un trabajo de calidad, partiendo desde buenas practicas de escritura de codigo hasta la creación de una identidad visual que se contruya apártir del branding de una marca.
 
