@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola a Todos👋
+
+Mi nombre es Angye 
+
+Actualmente soy estudiante de la Universidad El Bosque y pertenezco a la carrera de creación digital.
+
+Manejo el lenguaje de diseño HTML y de estructura CCS
 
 <!--
 **angyelaverde/angyelaverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
